@@ -5,7 +5,7 @@
 
 🔭 I’m currently working on
 
-Core Java & OOPs fundamentals
+Core Java & Springboot framework
 
 Data Structures & Algorithms
 
