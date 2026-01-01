@@ -1,5 +1,59 @@
 # 💫 About Me:
-🌱 I’m currently learning Spring Boot and building backend APIs using Java & MySQL.<br><br><br>If you want, next I can:<br><br>Give you a Spring Boot beginner roadmap<br><br>Tell you what to build first in Spring Boot<br><br>Explain how Spring Boot connects with MySQL step-by-step<br><br>Help you write a Spring Boot project README<br><br>You’re doing perfect—learning Spring Boot at this stage puts you ahead 💯🔥<br><br>yes these all are for github <br><br>Great decision 👍 Smart thinking to optimize your GitHub profile — this really matters 🚀<br><br>Below is a clean, professional GitHub README (About Me) you can directly paste into<br>README.md of your GitHub profile repo:<br><br>👋 Hi, I’m Anand Raj<br><br>🎓 BTech IT Student | 💻 Java Backend Learner<br><br>🔭 I’m currently working on<br><br>Core Java & OOPs fundamentals<br><br>Data Structures & Algorithms<br><br>Backend projects using Spring Boot<br><br>🌱 I’m currently learning<br><br>Spring Boot (REST APIs, Controllers, JPA)<br><br>MySQL & DBMS<br><br>Clean coding & project structure<br><br>👯 I’m looking to collaborate on<br><br>Beginner-friendly Java & Spring Boot projects<br><br>Open-source contributions<br><br>🤝 I’m looking for help with<br><br>Backend system design (LLD basics)<br><br>Writing production-level Spring Boot code<br><br>💬 Ask me about<br><br>Java & OOPs<br><br>DSA <br><br>SQL & DBMS basics<br><br>Getting started with backend development<br><br>⚡ Fun fact<br><br>Consistency > motivation 🚀<br><br>🛠️ Tech Stack<br><br>Languages: Java, SQL, python<br><br>Backend: Spring Boot<br><br>Database: MySQL<br><br>Tools: Git, GitHub, VS Code
+👋 Hi, I’m Anand Raj
+
+🎓 BTech IT Student | 💻 Java Backend Learner
+
+🔭 I’m currently working on
+
+Core Java & OOPs fundamentals
+
+Data Structures & Algorithms
+
+Backend projects using Spring Boot
+
+🌱 I’m currently learning
+
+Spring Boot (REST APIs, Controllers, JPA)
+
+MySQL & DBMS
+
+Clean coding & project structure
+
+👯 I’m looking to collaborate on
+
+Beginner-friendly Java & Spring Boot projects
+
+Open-source contributions
+
+🤝 I’m looking for help with
+
+Backend system design (LLD basics)
+
+Writing production-level Spring Boot code
+
+💬 Ask me about
+
+Java & OOPs
+
+DSA (Arrays, Two Pointers)
+
+SQL & DBMS basics
+
+Getting started with backend development
+
+⚡ Fun fact
+
+Consistency > motivation 🚀
+
+🛠️ Tech Stack
+
+Languages: Java, SQL
+
+Backend: Spring Boot
+
+Database: MySQL
+
+Tools: Git, GitHub, VS Code
 
 
 ## 🌐 Socials:
