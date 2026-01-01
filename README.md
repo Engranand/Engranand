@@ -1,59 +1,46 @@
-# 💫 About Me:
-👋 Hi, I’m Anand Raj
+Hi there! 👋 I’m Anand Raj
 
-🎓 BTech IT Student | 💻 Java Backend Learner
+A B.Tech IT student exploring the world of Backend Development, one concept at a time.
+Learning by building real projects 💻
 
-🔭 I’m currently working on
+🚀 About Me
 
-Core Java & Springboot framework
+Aspiring Backend Software Engineer passionate about building scalable and reliable applications.
+Skilled in Java & Spring Boot—I enjoy creating REST APIs and connecting databases.
+Always curious, always improving. I believe in learning through hands-on projects.
 
-Data Structures & Algorithms
+💡 Top Skills
 
-Backend projects using Spring Boot
+Java Programming ☕
 
-🌱 I’m currently learning
+Object-Oriented Programming (OOPs)
 
-Spring Boot (REST APIs, Controllers, JPA)
+Spring Boot (Basics → REST APIs)
 
 MySQL & DBMS
 
-Clean coding & project structure
+Data Structures & Algorithms (DSA)
 
-👯 I’m looking to collaborate on
+🌱 Currently Learning
 
-Beginner-friendly Java & Spring Boot projects
+Spring Boot (REST APIs, JPA, Hibernate basics)
 
-Open-source contributions
+Backend Architecture & LLD basics
 
-🤝 I’m looking for help with
+SQL optimization & database design
 
-Backend system design (LLD basics)
+Clean code & real-world project structure
 
-Writing production-level Spring Boot code
+📫 Connect with Me
 
-💬 Ask me about
+GitHub: (You’re already here 😄)
 
-Java & OOPs
+LinkedIn: (www.linkedin.com/in/anand-raj-00b10231a)
 
-DSA (Arrays, Two Pointers)
+⚡ Fun Fact
 
-SQL & DBMS basics
-
-Getting started with backend development
-
-⚡ Fun fact
-
-Consistency > motivation 🚀
-
-🛠️ Tech Stack
-
-Languages: Java, SQL
-
-Backend: Spring Boot
-
-Database: MySQL
-
-Tools: Git, GitHub, VS Code
+When I’m not coding, I’m breaking my own code to understand it better 😄
+Consistency beats talent 🚀
 
 
 ## 🌐 Socials:
